@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "api_key": "AIzaSyDiAKvfdTDT3mug68WJW_AdenLBVM1t718",
+  "project_id": "second-modem-294705",
+  "private_key_id": "b597cde59d33f651db94e2d8df75d43008ad2efa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDYkKOZMQlMSOGF\n457uATWINU7Cx80LWOCrYKGVuMkvZFfMY9cNsmkkyvjtZNedxvcleMxbCfm4i1h3\n8Y99CK+FM8ZAwqh7tdVYWP52noFKth6iFV0jlV/KrZ1RpjVQ7B7jBYW6HCLGV+xa\nXdqurYJaYr0avSQPcEwJswR0oaoJ0rHIasDNzLqbBByc0BEjnpKfByD32BSBslvX\nv9c4a77rGZwr5wCjhTOavmhGUIBvi+MlzAXCCXZHyhnyOtujxrQdBVjHiifGNWoA\n1ZvjNUTR33eAer/ld5YiQ8QZgLt5+OmrDPC+2dguoPf10XfPw9QVh+XlcOBhd2DM\niI5hLkCnAgMBAAECggEAQOcwMIQSrksVU6QBCIFSQsz/Gr74g5MSWiouowlrOgnP\nilDNrawveLhf2/2h5QYxIYjPbeVScu1ICUJa53UH7Vqz6sqr5c977etV78TXKMXl\n7luKu1RUDhD0Gfk+906cfxszlbBC98B39Ck2la0oaOA4nl/bA8l68Fk3V6Dvrdtr\nCDpa0OKm9e4qklwHuG9aGrZmEa6I2w7YRB6oBeC61wwC/ZYPIqdYGn/TDsE3zXQA\nfn1nwWGqh11IRpRRdObfuYF+HNhELMaHcWikOB3QlQuMXVNI2dwdGGUIovlw6XZl\n5P4U77SpBcgl9w7LRJ1RA7h7Mker1FVouxtNJXYw+QKBgQDvI6wVn3cwc/lulOnj\n8oTP8pT9/TT05Or5pyQ+r7bra2L2J7DD6ybxsVzRPA7O5RsnvN0RSCWKbPlFIaqi\n2AHRu+ely25PaEGt7n+s/YMrCeRv94mAZkR3cqFJQ/s8IRwVYsRyqDFvtc3+S3wj\nVdqttnY2xvM5mqknu1DyhmRevQKBgQDn1YNJDuc1jfTKDAk8oYfWlrLaZFJbqkky\nk8jBs4oGvQBG37Cn4EjzOkiwGMkv8sr0Le4UGWulJSagIhvuse50V3soWejDzIKO\n1OEkBt3fZ2WxqznsT/Bi9uBqsqrrX7OPHnvLjVZZjivoxUpqk5R8cnhd3lbjFavC\nokw8/x91MwKBgQDOqueHcF8TUscYGD3iL68z/5NfxbpEgqnHw/kA696LqizGSxrq\n1oi7i+qJMPwjNcC4IPJ0gwNelDsA0c2kGkXIOjpCAIN+wL0yUdGpcRYw1cXENgtx\nGfDFwh09MjEnj/2zRb480LqYrmguApJv/zyTsAKN6HY/LDhQDAQy9I49iQKBgQC/\nl4uNCBz5/Fwt0i6cBd5t8FLU+424pY0imFGUCx1pni6pY9npkwiWwjcqGQHDd4JU\ns9SKlcuJSp+WPToaVL/9NALbARrFHbFT+wgpLueT5i5720beTd4a223xn8BzDr8k\n6wth2GdhUYZmMw3h8B8Jjcx9vu7Ncq5lBp281xaXUwKBgQDIvwNDYvVpQnPKh4Rz\no3k7gBEJ8fNYnRFiR8lBDFr5Js/MtGSG5eORdhBzWE3f2oUxaTNMlML4RpDdhJm1\nZIPe5K3QAZ7Jsq6Ju1INiX2V9W9sQKvFR/CP6VmuiyYsuCsOWLYja5rS0ydJadO0\nyyxhwWdhaH7dZ1gElOy0QOo1OA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "notebook@second-modem-294705.iam.gserviceaccount.com",
+  "client_id": "103928210642307748014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/notebook%40second-modem-294705.iam.gserviceaccount.com"
+}
